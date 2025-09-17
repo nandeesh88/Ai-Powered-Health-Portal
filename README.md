@@ -1,5 +1,5 @@
 # AI Powered Health Portal
-Smart healthcare platform that lets patients **book doctors, view medical history, and track IoT health metrics** in real time.  
+Smart healthcare platform that lets patients book doctors, view medical history and track IoT health metrics in real time.  
 
 ## 🚀 Features  
 - **Dashboard (/):** View upcoming appointment + IoT metrics (heart rate, steps, sleep hours).  
